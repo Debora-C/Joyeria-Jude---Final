@@ -1,0 +1,29 @@
+/*GENERALES*/
+html{
+  font-size: 62.5%;
+  overflow-x: hidden
+  
+}
+*{
+  padding: 0;
+  margin: 0;
+  font-family:'Kite One', sans-serif;
+  font-size: 20px;
+  
+}
+
+img{
+  margin-top: 5px;
+  margin-bottom: 15px;
+  padding: 10px;
+  
+}
+
+body{
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+background-color: rgb(209, 158, 156);
+width: 100%;
+overflow-x: hidden
+} 
